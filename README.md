@@ -4,6 +4,7 @@
 
 * [PDF version](compskills.pdf)
 * [Source code](https://github.com/ThorntonLab/ComputerSkills4GradStudents) for the book.
+* [Class website](http://www.molpopgen.org/AdvancedInformatics2021/)
 
 ## Lab Exercises
 
