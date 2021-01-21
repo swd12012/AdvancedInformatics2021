@@ -15,3 +15,7 @@
 ### Week 2
 
 The R markdown files for week 2's lab exercise can be found [here](https://github.com/swd12012/AdvancedInformatics_Rmd).
+
+### Week 3
+
+The [R markdown](https://github.com/swd12012/AI-week3/blob/master/week3.Rmd) and [HTML output](https://github.com/swd12012/AI-week3/blob/master/week3.html) files are found in [this repository](https://github.com/swd12012/AI-week3).
