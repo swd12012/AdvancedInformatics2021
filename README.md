@@ -19,3 +19,11 @@ The R markdown files for week 2's lab exercise can be found [here](https://githu
 ### Week 3
 
 The [R markdown](https://github.com/swd12012/AI-week3/blob/master/week3.Rmd) and [HTML output](https://github.com/swd12012/AI-week3/blob/master/week3.html) files are found in [this repository](https://github.com/swd12012/AI-week3).
+
+### Week 4
+
+The writeup for week 4's exercise is found in [this repository](https://github.com/swd12012/snakemake_exercise).
+
+The image ouput from my `snakemake` pipeline is below:
+
+![mtcars.png](https://github.com/swd12012/snakemake_exercise/blob/main/mtcars.png)
