@@ -26,4 +26,4 @@ The writeup for week 4's exercise is found in [this repository](https://github.c
 
 The image ouput from my `snakemake` pipeline is below:
 
-![mtcars.png](https://github.com/swd12012/snakemake_exercise/blob/main/mtcars.png)
+![mtcars](https://github.com/swd12012/snakemake_exercise/blob/main/mtcars.png)
