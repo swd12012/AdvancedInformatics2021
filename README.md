@@ -27,3 +27,7 @@ The writeup for week 4's exercise is found in [this repository](https://github.c
 The image ouput from my `snakemake` pipeline is below:
 
 ![mtcars](https://github.com/swd12012/snakemake_exercise/blob/main/mtcars.png)
+
+### Week 5
+
+The R markdown for week 5 can be found in [this repository](https://github.com/swd12012/AI2021_week5/blob/main/week5.Rmd).
