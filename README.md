@@ -31,3 +31,7 @@ The image ouput from my `snakemake` pipeline is below:
 ### Week 5
 
 The R markdown for week 5 can be found in [this repository](https://github.com/swd12012/AI2021_week5/blob/main/week5.Rmd).
+
+### Week 6
+
+Week 6's lab exercise can be found in [this repository](https://github.com/swd12012/AdvancedInformaticsPracticeAnalyses). A `tree` of my working directory, demonstrating that my symlinks were created and renamed, is in the README.
