@@ -38,4 +38,5 @@ Week 6's lab exercise can be found in [this repository](https://github.com/swd12
 
 ### Week 7 
 
-Scripts for eek 7's lab exercise (indexing and aligning) can be found in the [same respository](https://github.com/swd12012/AdvancedInformaticsPracticeAnalyses) as last week in a scripts directory.
+Scripts for week 7's lab exercise (indexing and aligning) can be found in the [same respository](https://github.com/swd12012/AdvancedInformaticsPracticeAnalyses) as last week.
+ a scripts directory.
