@@ -35,3 +35,7 @@ The R markdown for week 5 can be found in [this repository](https://github.com/s
 ### Week 6
 
 Week 6's lab exercise can be found in [this repository](https://github.com/swd12012/AdvancedInformaticsPracticeAnalyses). A `tree` of my working directory, demonstrating that my symlinks were created and renamed, is in the README.
+
+### Week 7 
+
+Scripts for eek 7's lab exercise (indexing and aligning) can be found in the [same respository](https://github.com/swd12012/AdvancedInformaticsPracticeAnalyses) as last week in a scripts directory.
