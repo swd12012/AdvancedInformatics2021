@@ -40,3 +40,7 @@ Week 6's lab exercise can be found in [this repository](https://github.com/swd12
 
 Scripts for week 7's lab exercise (indexing and aligning) can be found in the [same respository](https://github.com/swd12012/AdvancedInformaticsPracticeAnalyses) as last week.
  a scripts directory.
+
+### Week 8
+
+Scripts for DNAseq SNP calling and RNAseq feature counting are found in the same repository. The README is also updated.
