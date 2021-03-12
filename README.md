@@ -44,3 +44,12 @@ Scripts for week 7's lab exercise (indexing and aligning) can be found in the [s
 ### Week 8
 
 Scripts for DNAseq SNP calling and RNAseq feature counting are found in the same repository. The README is also updated.
+
+### Week 9
+
+RNAseq and ATACseq analysis are found in the same repository.
+
+### Week 10
+
+For my independent project, I analyzed some RACE PCR product libraries I generated recently.
+The analysis and figures can be found at [this GitHub repository](https://github.com/swd12012/RPE_RACE).
